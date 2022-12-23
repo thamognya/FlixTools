@@ -1,0 +1,13 @@
+# This file contains values from Cookiecutter
+
+default_context:
+  project_name: "backend"
+  project_description: "backend to flixtools"
+  organization: "backend"
+  license: "MIT"
+  minimal_python_version: 3.11
+  github_name: "backend"
+  email: "contact@thamognya.com"
+  version: "0.1.0"
+  line_length: "88"
+  create_example_template: "none"
